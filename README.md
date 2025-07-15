@@ -44,7 +44,7 @@ project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/groq-chatbot.git
+git clone https://github.com/ameygeet/Chatbot.git
 cd groq-chatbot
 ```
 
@@ -146,4 +146,4 @@ You’re free to use, modify, and distribute it with attribution.
 ---
 
 > Built with ❤️ using Groq + Streamlit  
-> Created by [Your Name](https://github.com/yourusername)
+> Created by [Amey Geet]https://github.com/ameygeet)
